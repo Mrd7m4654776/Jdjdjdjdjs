@@ -34,8 +34,8 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1257088531843649740')
-    .setType('PLAYING')
-    .setURL('https://www.twitch.tv/apparentlyjack_rl') 
+    .setType('STREAMING')
+    .setURL('https://www.twitch.tv/') 
     .setState('الإحترام هو أجمل هدية نقدمها للناس')
     .setName('عبد الرحمن بن علي')
     .setDetails(`سيرفر فواز المتواضع`)
