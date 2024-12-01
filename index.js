@@ -36,9 +36,9 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('d7oomy')
-    .setName('FwazMt')
-    .setDetails(`حياكم الله تو ماينور السيرفر`)
+    .setState('الإحترام هو أجمل هدية نقدمها للناس')
+    .setName('عبد الرحمن بن علي')
+    .setDetails(`سيرفر فواز المتواضع`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1311069774293237813/1312891169704771645/1724695276000-1.png?ex=674e24af&is=674cd32f&hm=27c11ba159329888bcf9fcc1aba2ccc67b11b067672d3c271a105331426d044e&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Supervisor') 
