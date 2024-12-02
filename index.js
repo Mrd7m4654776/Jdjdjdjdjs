@@ -36,15 +36,15 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/') 
-    .setState('الإحترام هو أجمل هدية نقدمها للناس')
-    .setName('عبد الرحمن بن علي')
-    .setDetails(`سيرفر فواز المتواضع`)
+    .setState('أما بفعل يمناك ولا تبرقع')
+    .setName('Mr.D7m')
+    .setDetails(`.`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1311069774293237813/1312891169704771645/1724695276000-1.png?ex=674e24af&is=674cd32f&hm=27c11ba159329888bcf9fcc1aba2ccc67b11b067672d3c271a105331426d044e&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Supervisor') 
+    .setAssetsLargeText('-') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1311069774293237813/1312891169704771645/1724695276000-1.png?ex=674e24af&is=674cd32f&hm=27c11ba159329888bcf9fcc1aba2ccc67b11b067672d3c271a105331426d044e&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('Server Fwaz', 'https://discord.gg/fwaz');
+    .addButton('DISCORD', 'https://discord.gg/');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
