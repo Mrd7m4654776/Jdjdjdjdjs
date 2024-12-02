@@ -40,9 +40,9 @@ client.on('ready', async () => {
     .setName('Mr.D7m')
     .setDetails(`.`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1311069774293237813/1312891169704771645/1724695276000-1.png?ex=674e24af&is=674cd32f&hm=27c11ba159329888bcf9fcc1aba2ccc67b11b067672d3c271a105331426d044e&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1311069774293237813/1313292450764427334/ba2a8222ebddc79a055a0d6be0421b76.jpg?ex=674f9a68&is=674e48e8&hm=b8de94f9f396d74931f5a21c972cc323d887831a8ab0bdd94a73cdb4447193c1&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('-') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1311069774293237813/1312891169704771645/1724695276000-1.png?ex=674e24af&is=674cd32f&hm=27c11ba159329888bcf9fcc1aba2ccc67b11b067672d3c271a105331426d044e&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1311069774293237813/1313292928021434439/1313292840784367682remix-1733183831189.png?ex=674f9ad9&is=674e4959&hm=6ceb75ad82cbdbf27c4e9b660290780f075d490b949bb19f6bdd462a4df6d0fb&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('DISCORD', 'https://discord.gg/');
 
