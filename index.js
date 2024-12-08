@@ -34,7 +34,7 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1257088531843649740')
-    .setType('STREAMING')
+    .setType('Playing')
     .setURL('https://www.twitch.tv/') 
     .setState('')
     .setName('سيرفر مبهر للجميع 🛠️')
