@@ -34,14 +34,14 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1257088531843649740')
-    .setType('Playing')
+    .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
     .setState('d7oom')
     .setName('سيرفر مبهر للجميع 🛠️')
     .setDetails(`حياكم الله يالنشامى`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('# S5B , HighStaff') 
+    .setAssetsLargeText('# S5B | HighStaff') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Server S5B', 'https://discord.gg/s5b');
