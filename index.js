@@ -35,7 +35,7 @@ client.on('ready', async () => {
   const r = new Discord.RichPresence()
     .setApplicationId('1257088531843649740')
     .setType('STREAMING')
-    .setURL('https://www.twitch.tv/user463567') 
+    .setURL('https://www.twitch.tv/') 
     .setState('أما بفعل يمناك ولا تبرقع')
     .setName('Mr.D7m')
     .setDetails(`Mr.d7m`)
