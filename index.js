@@ -36,15 +36,15 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/') 
-    .setState('أما بفعل يمناك ولا تبرقع')
-    .setName('Mr.D7m')
-    .setDetails(`Mr.d7m`)
+    .setState('')
+    .setName('سيرفر مبهر للجميع 🛠️')
+    .setDetails(`حياكم الله يالنشامى`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1311069774293237813/1313292450764427334/ba2a8222ebddc79a055a0d6be0421b76.jpg?ex=674f9a68&is=674e48e8&hm=b8de94f9f396d74931f5a21c972cc323d887831a8ab0bdd94a73cdb4447193c1&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('# Staff , Developer Discord ') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1311069774293237813/1313292928021434439/1313292840784367682remix-1733183831189.png?ex=674f9ad9&is=674e4959&hm=6ceb75ad82cbdbf27c4e9b660290780f075d490b949bb19f6bdd462a4df6d0fb&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('# S5B , HighStaff') 
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('DISCORD', 'https://discord.gg/');
+    .addButton('سيرفر صخب', 'https://discord.gg/s5b');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
