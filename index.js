@@ -37,12 +37,12 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
     .setState('🛠️｜HighStaff')
-    .setName('🔗｜Welcome to the s5b')
-    .setDetails(`📜｜Law is respect`)
+    .setName('🔗｜Welcome To the S5B')
+    .setDetails(`📜｜Law is Respect`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1316380508393046047/1316527491451453542/image_-_2024-06-27T075043.655.png?ex=675b5f45&is=675a0dc5&hm=317b1023b7c8d5dd5c9ddd9304a0333e08137f23737d5c572dadd65829e81ac9&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('# S5B | HighStaff') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1014189787395133511/1014308561968435260/LogoDiscordLoading.gif?ex=67577676&is=675624f6&hm=b09d406c214511b61ebb7ddcb13f075c592de6b8a99689d2ed18a4aee83a8eed&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1316380508393046047/1316527491451453542/image_-_2024-06-27T075043.655.png?ex=675b5f45&is=675a0dc5&hm=317b1023b7c8d5dd5c9ddd9304a0333e08137f23737d5c572dadd65829e81ac9&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('SERVER S5B', 'https://discord.gg/s5b');
 
