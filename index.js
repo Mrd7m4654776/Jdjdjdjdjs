@@ -37,14 +37,14 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
     .setState('🛠️｜HighStaff')
-    .setName('🔗｜Welcome To the S5B')
-    .setDetails(`📜｜Law is Respect`)
+    .setName('👇・لكسب حسنات الرابط في الأسفل')
+    .setDetails(`🍂・تثقف في الدين الاسلامي`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1316380508393046047/1316527491451453542/image_-_2024-06-27T075043.655.png?ex=675b5f45&is=675a0dc5&hm=317b1023b7c8d5dd5c9ddd9304a0333e08137f23737d5c572dadd65829e81ac9&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('# S5B | HighStaff') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1316380508393046047/1316527491451453542/image_-_2024-06-27T075043.655.png?ex=675b5f45&is=675a0dc5&hm=317b1023b7c8d5dd5c9ddd9304a0333e08137f23737d5c572dadd65829e81ac9&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1270151141660819538/1316808017345380373/7424B268-2B32-4F2E-8AD2-0D9F58942942.png?ex=675c6488&is=675b1308&hm=d63a5e633afe115f8b0e1ab263aa68415923cdf052dc345d1755358676b484dc&') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('🤍・أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ') 
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1270151141660819538/1316808017345380373/7424B268-2B32-4F2E-8AD2-0D9F58942942.png?ex=675c6488&is=675b1308&hm=d63a5e633afe115f8b0e1ab263aa68415923cdf052dc345d1755358676b484dc&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('SERVER S5B', 'https://discord.gg/s5b');
+    .addButton('سيرفر لحَّظٰت', 'https://discord.gg/5G9eGxsw');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
