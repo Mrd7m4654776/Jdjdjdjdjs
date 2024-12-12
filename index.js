@@ -36,7 +36,7 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
-    .setState('🛠️｜HighStaff')
+    .setState('🤍・ألا بذكر الله تطمئن القلوب')
     .setName('👇・لكسب حسنات الرابط في الأسفل')
     .setDetails(`🍂・تثقف في الدين الاسلامي`)
     .setStartTimestamp(Date.now())
