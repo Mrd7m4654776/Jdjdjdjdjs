@@ -37,7 +37,7 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
     .setState('🛠️・@HighStaff @Develope')
-    .setName('🔗・حياكم الله يالنشامى سيرفر مبهر')
+    .setName('🔗・Welcome To The Server S5B')
     .setDetails(`📜・Respect is The Law`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1317097321497890880/1317218253944131584/image_-_2024-06-27T075043.655.png?ex=675de298&is=675c9118&hm=bfcd9041bbe535847ebba99278192c2db1d26ff3f507d8219a53d6ae8ed5885a&') //You can put links in tenor or discord and etc.
