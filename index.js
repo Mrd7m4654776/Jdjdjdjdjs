@@ -36,7 +36,7 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
-    .setState('🛠️・@High Staff @Developer')
+    .setState('🛠️・@HighStaff @Developer')
     .setName('👇・')
     .setDetails(`🔗・Welcome To The Server S5B`)
     .setStartTimestamp(Date.now())
