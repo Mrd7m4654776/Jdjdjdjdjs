@@ -52,5 +52,5 @@ client.on('ready', async () => {
 
 });
 
-const mySecret = process.env['t'];
+const mySecret = process.env['TOKEN'];
 client.login(mySecret);
