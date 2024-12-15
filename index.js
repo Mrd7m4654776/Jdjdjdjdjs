@@ -41,7 +41,7 @@ client.on('ready', async () => {
     .setDetails(`#16 D7M* Project ~ 32BIT-384kHx`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1317934667126538391/1317935844744757308/59e87f627293b90f35340aef59c64dad.jpg?ex=67607ee7&is=675f2d67&hm=0a4bda92b873f255b98bf57a402e4d622e8fbf12dbfd7d8c4f6433f632a170f1&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('🛠️・@HighStaff @Developer') 
+    .setAssetsLargeText('🛠️') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1317934667126538391/1317936004346417263/Picsart_24-12-15_22-26-56-469.png?ex=67607f0d&is=675f2d8d&hm=78adfed7e485e7ead3c881637bdd1747d323c123dfead98dfc3654f7749c44c7&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     
