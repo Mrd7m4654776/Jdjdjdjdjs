@@ -36,15 +36,15 @@ client.on('ready', async () => {
     .setApplicationId('1257088531843649740')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/') 
-    .setState('🤍・إلا بذكر تطمئن القلوب')
+    .setState('Extreme Power Mode')
     .setName('👇・لتكسب حسنات الرابط فالأسفل')
-    .setDetails(`🍂・تثقف في الدين الإسلامي`)
+    .setDetails(`#16 D7M* Project ~ 32BIT-`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1270151141660819538/1316808017345380373/7424B268-2B32-4F2E-8AD2-0D9F58942942.png?ex=675db608&is=675c6488&hm=be889ad7b6df66b4ed75fe70c96eeb247dd4b8535fe91b34713d8d4d67952122&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('🛠️・@HighStaff @Developer') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1270151141660819538/1316808017345380373/7424B268-2B32-4F2E-8AD2-0D9F58942942.png?ex=675db608&is=675c6488&hm=be889ad7b6df66b4ed75fe70c96eeb247dd4b8535fe91b34713d8d4d67952122&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('ت', 'تت');
+    .addButton('SERVER DISCORD', 'https://discord.gg/JBV9bvgx');
 
   
   client.user.setActivity(r);
