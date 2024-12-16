@@ -44,8 +44,8 @@ client.on('ready', async () => {
     .setAssetsLargeText('🛠️') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1317934667126538391/1317936004346417263/Picsart_24-12-15_22-26-56-469.png?ex=67607f0d&is=675f2d8d&hm=78adfed7e485e7ead3c881637bdd1747d323c123dfead98dfc3654f7749c44c7&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('SERVER DISCORD', 'https://discord.gg/JBV9bvgx');
-    .addButton('SERVER DISCORD', 'https://discord.gg/JBV9bvgx');
+    .addButton('SERVER DISCORD', 'https://discord.gg/JBV9bvgx');"".addButton('SERVER DISCORD', 'https://discord.gg/JBV9bvgx');
+
 
 
   
